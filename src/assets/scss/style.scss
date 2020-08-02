@@ -5,6 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+@import "colorVariable";
 @import "functions";
 @import "variables";
 @import "mixins";
@@ -202,4 +203,40 @@ section {
             }
     }
     
+}
+
+.testimonial-hero, .testimonial-hero img {
+    width: 365px;
+    height: 500px;
+}
+
+.line-height-2 {
+    padding-top: 40px !important;
+    line-height: 48px;
+}
+
+footer {
+    border-top: 1px solid $gray-200;
+    padding-top: 50px;
+    
+    .list-group-item {
+        padding: 0.3125rem;
+        border: 0;
+        a, span {
+            color: $gray-500;
+            font-weight: 300;
+        }
+
+        a {
+            @include hover-focus {
+                color: $gray-800;
+            }
+        }
+    }
+
+    .copyrights {
+        margin: 50px 34%;
+        font-weight: 300;
+        color: $gray-500;
+    }
 }

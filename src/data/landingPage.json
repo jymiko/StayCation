@@ -63,34 +63,34 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
-          "imageUrl": "/images/image-category-1.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Tobby Town",
+          "imageUrl": "/images/categories-1.png",
+          "country": "Indonesia",
+          "city": "Gunung Batu",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
-          "imageUrl": "/images/image-category-2.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Anggana",
+          "imageUrl": "/images/categories-2.png",
+          "country": "Indonesia",
+          "city": "Bogor",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/image-category-3.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Seattle Rain",
+          "imageUrl": "/images/categories-3.png",
+          "country": "Indonesia",
+          "city": "Bali",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
-          "imageUrl": "/images/image-category-4.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Wooden Pit",
+          "imageUrl": "/images/categories-4.png",
+          "country": "Indonesia",
+          "city": "Wonosobo",
           "isPopular": false
         }
       ]
@@ -102,7 +102,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "PSW Antasari",
-          "imageUrl": "/images/image-category-5.jpg",
+          "imageUrl": "/images/categories-5.png",
           "country": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
@@ -110,7 +110,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "Kuretakeso",
-          "imageUrl": "/images/image-category-6.jpg",
+          "imageUrl": "/images/categories-6.png",
           "country": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
@@ -118,7 +118,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "Arya Duta",
-          "imageUrl": "/images/image-category-7.jpg",
+          "imageUrl": "/images/categories-7.png",
           "country": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
@@ -126,7 +126,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Dhika",
-          "imageUrl": "/images/image-category-8.jpg",
+          "imageUrl": "/images/categories-8.png",
           "country": "South Korea",
           "city": "Seoul Flore",
           "isPopular": true
@@ -140,7 +140,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "PSW Antasari",
-          "imageUrl": "/images/image-category-9.jpg",
+          "imageUrl": "/images/categories-9.png",
           "country": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
@@ -148,7 +148,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "Kuretakeso",
-          "imageUrl": "/images/image-category-10.jpg",
+          "imageUrl": "/images/categories-10.png",
           "country": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
@@ -156,7 +156,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "Arya Duta",
-          "imageUrl": "/images/image-category-11.jpg",
+          "imageUrl": "/images/categories-11.png",
           "country": "South Korea",
           "city": "Seoul Flore",
           "isPopular": true
@@ -164,17 +164,17 @@
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Dhika",
-          "imageUrl": "/images/image-category-12.jpg",
+          "imageUrl": "/images/categories-12.png",
           "country": "South Korea",
           "city": "Seoul Flore",
-          "isPopular": false
+          "isPopular": true
         }
       ]
     }
   ],
   "testimonial": {
     "_id": "asd1293uasdads1",
-    "imageUrl": "/images/testimonial-landingpages.jpg",
+    "imageUrl": "/images/testimonial-2.png",
     "name": "Happy Family",
     "rate": 4.55,
     "content": "What a great trip with my family and I should try again next time soon ...",
